@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asil-vap
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning about Python PL
+- 👀 I’m interested in Data Science and Ml
+- 🌱 I’m currently exploring different Python libraries and their functionailities 
 - 📫 How to reach me : info.aesp22@gmail.com
 
 <!---
